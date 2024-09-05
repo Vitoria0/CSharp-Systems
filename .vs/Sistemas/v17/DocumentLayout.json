@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vitoria.Machado\\Documents\\Estudos\\.NET\\Sistemas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{765245E7-9DF2-4961-9129-6BCAE5FBB11E}|Sistemas.csproj|c:\\users\\vitoria.machado\\documents\\estudos\\.net\\sistemas\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{765245E7-9DF2-4961-9129-6BCAE5FBB11E}|Sistemas.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765245E7-9DF2-4961-9129-6BCAE5FBB11E}|Sistemas.csproj|c:\\users\\vitoria.machado\\documents\\estudos\\.net\\sistemas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765245E7-9DF2-4961-9129-6BCAE5FBB11E}|Sistemas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765245E7-9DF2-4961-9129-6BCAE5FBB11E}|Sistemas.csproj|c:\\users\\vitoria.machado\\documents\\estudos\\.net\\sistemas\\sistemas.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{765245E7-9DF2-4961-9129-6BCAE5FBB11E}|Sistemas.csproj|solutionrelative:sistemas.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765245E7-9DF2-4961-9129-6BCAE5FBB11E}|Sistemas.csproj|c:\\users\\vitoria.machado\\documents\\estudos\\.net\\sistemas\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765245E7-9DF2-4961-9129-6BCAE5FBB11E}|Sistemas.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765245E7-9DF2-4961-9129-6BCAE5FBB11E}|Sistemas.csproj|c:\\users\\vitoria.machado\\documents\\estudos\\.net\\sistemas\\data\\mappers\\tarefamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765245E7-9DF2-4961-9129-6BCAE5FBB11E}|Sistemas.csproj|solutionrelative:data\\mappers\\tarefamap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765245E7-9DF2-4961-9129-6BCAE5FBB11E}|Sistemas.csproj|c:\\users\\vitoria.machado\\documents\\estudos\\.net\\sistemas\\data\\mappers\\usuariomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765245E7-9DF2-4961-9129-6BCAE5FBB11E}|Sistemas.csproj|solutionrelative:data\\mappers\\usuariomap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765245E7-9DF2-4961-9129-6BCAE5FBB11E}|Sistemas.csproj|c:\\users\\vitoria.machado\\documents\\estudos\\.net\\sistemas\\models\\tarefamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765245E7-9DF2-4961-9129-6BCAE5FBB11E}|Sistemas.csproj|solutionrelative:models\\tarefamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765245E7-9DF2-4961-9129-6BCAE5FBB11E}|Sistemas.csproj|c:\\users\\vitoria.machado\\documents\\estudos\\.net\\sistemas\\models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765245E7-9DF2-4961-9129-6BCAE5FBB11E}|Sistemas.csproj|solutionrelative:models\\usuariomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{765245E7-9DF2-4961-9129-6BCAE5FBB11E}|Sistemas.csproj|c:\\users\\vitoria.machado\\documents\\estudos\\.net\\sistemas\\enums\\statustarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{765245E7-9DF2-4961-9129-6BCAE5FBB11E}|Sistemas.csproj|solutionrelative:enums\\statustarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Vitoria.Machado\\Documents\\Estudos\\.NET\\Sistemas\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Vitoria.Machado\\Documents\\Estudos\\.NET\\Sistemas\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-04T18:04:21.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vitoria.Machado\\Documents\\Estudos\\.NET\\Sistemas\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Vitoria.Machado\\Documents\\Estudos\\.NET\\Sistemas\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T18:04:19.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sistemas.http",
+              "DocumentMoniker": "C:\\Users\\Vitoria.Machado\\Documents\\Estudos\\.NET\\Sistemas\\Sistemas.http",
+              "RelativeDocumentMoniker": "Sistemas.http",
+              "ToolTip": "C:\\Users\\Vitoria.Machado\\Documents\\Estudos\\.NET\\Sistemas\\Sistemas.http",
+              "RelativeToolTip": "Sistemas.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-04T13:32:08.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TarefaMap.cs",
+              "DocumentMoniker": "C:\\Users\\Vitoria.Machado\\Documents\\Estudos\\.NET\\Sistemas\\Data\\Mappers\\TarefaMap.cs",
+              "RelativeDocumentMoniker": "Data\\Mappers\\TarefaMap.cs",
+              "ToolTip": "C:\\Users\\Vitoria.Machado\\Documents\\Estudos\\.NET\\Sistemas\\Data\\Mappers\\TarefaMap.cs",
+              "RelativeToolTip": "Data\\Mappers\\TarefaMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T13:06:13.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioMap.cs",
+              "DocumentMoniker": "C:\\Users\\Vitoria.Machado\\Documents\\Estudos\\.NET\\Sistemas\\Data\\Mappers\\UsuarioMap.cs",
+              "RelativeDocumentMoniker": "Data\\Mappers\\UsuarioMap.cs",
+              "ToolTip": "C:\\Users\\Vitoria.Machado\\Documents\\Estudos\\.NET\\Sistemas\\Data\\Mappers\\UsuarioMap.cs",
+              "RelativeToolTip": "Data\\Mappers\\UsuarioMap.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T12:54:17.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StatusTarefa.cs",
+              "DocumentMoniker": "C:\\Users\\Vitoria.Machado\\Documents\\Estudos\\.NET\\Sistemas\\Enums\\StatusTarefa.cs",
+              "RelativeDocumentMoniker": "Enums\\StatusTarefa.cs",
+              "ToolTip": "C:\\Users\\Vitoria.Machado\\Documents\\Estudos\\.NET\\Sistemas\\Enums\\StatusTarefa.cs",
+              "RelativeToolTip": "Enums\\StatusTarefa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T12:52:04.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Vitoria.Machado\\Documents\\Estudos\\.NET\\Sistemas\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Vitoria.Machado\\Documents\\Estudos\\.NET\\Sistemas\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:42:35.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TarefaModel.cs",
+              "DocumentMoniker": "C:\\Users\\Vitoria.Machado\\Documents\\Estudos\\.NET\\Sistemas\\Models\\TarefaModel.cs",
+              "RelativeDocumentMoniker": "Models\\TarefaModel.cs",
+              "ToolTip": "C:\\Users\\Vitoria.Machado\\Documents\\Estudos\\.NET\\Sistemas\\Models\\TarefaModel.cs",
+              "RelativeToolTip": "Models\\TarefaModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:40:26.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuarioModel.cs",
+              "DocumentMoniker": "C:\\Users\\Vitoria.Machado\\Documents\\Estudos\\.NET\\Sistemas\\Models\\UsuarioModel.cs",
+              "RelativeDocumentMoniker": "Models\\UsuarioModel.cs",
+              "ToolTip": "C:\\Users\\Vitoria.Machado\\Documents\\Estudos\\.NET\\Sistemas\\Models\\UsuarioModel.cs",
+              "RelativeToolTip": "Models\\UsuarioModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T11:37:40.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
